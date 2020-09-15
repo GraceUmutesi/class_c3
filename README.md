@@ -5,6 +5,6 @@ Welcome to the basics of writing codes
 ---
 ## Setup 
 
-*Vscode 
-*Terminal
+* Vscode 
+* Terminal
 
